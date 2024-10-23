@@ -1,5 +1,3 @@
-Created by Melvin Eng Heok Lau, last modified on Oct 24, 2019
-
 
 
 
